@@ -1,0 +1,30 @@
+#page-auth {
+    display: flex;
+    align-items: strech;
+    height: 100vh;
+}
+
+aside {
+    flex: 7;
+
+    background: #835afd;
+    color: #FFF;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    padding: 120px 80px;
+}
+
+img {
+    max-width: 320px;
+}
+
+strong{
+    
+}
+
+main {
+    flex: 8;
+}
